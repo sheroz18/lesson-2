@@ -1,0 +1,54 @@
+*{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+}
+.container{
+   
+        max-width: 1600px;
+            margin-right: auto;
+            margin-left: auto;
+            padding-right: 20px;
+            padding-left: 20px;
+}
+.navbar{
+    color: var(--text-color, #252B42);
+       padding: 5px;
+        font-family: ;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 32px;
+        
+            
+        letter-spacing: 0.1px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+ul{
+    list-style-type: none;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-list{
+    display: flex;
+    gap: 21px;
+    
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container,img{
+    background-image: url(cover\ —\ копия.png);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        
+}
