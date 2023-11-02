@@ -1,0 +1,405 @@
+.col-md-36 {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 240px;
+    position: relative;
+}
+
+.about-2 {
+    background: #ffffff;
+    padding: 120px 0px 120px 0px;
+    align-self: stretch;
+    flex-shrink: 0;
+    height: 911px;
+    position: relative;
+    overflow: hidden;
+}
+
+.container5 {
+    padding: 100px 0px 100px 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 1600px;
+    position: absolute;
+    left: calc(50% - 525px);
+    top: 0px;
+    overflow: hidden;
+}
+
+.main-content2 {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.h-22 {
+    color: var(--text-color, #252b42);
+    text-align: center;
+    font: var(--h-2, 700 40px/57px "Montserrat", sans-serif);
+    position: relative;
+}
+
+.row5 {
+    display: flex;
+    flex-direction: row;
+    gap: 120px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.col-md-8 {
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 600px;
+    position: relative;
+    overflow: hidden;
+}
+
+.card-item7 {
+    background: var(--lightbackground, #ffffff);
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #dedede;
+    border-width: 1px;
+    padding: 40px 35px 40px 35px;
+    flex-shrink: 0;
+    width: 597px;
+    height: 442px;
+    position: relative;
+}
+
+.media-bg-cover {
+    position: absolute;
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+    top: 0px;
+    overflow: hidden;
+}
+
+.cover3 {
+    position: absolute;
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+    top: 0px;
+    overflow: hidden;
+}
+
+.filter {
+    background: linear-gradient(180deg,
+            rgba(0, 0, 0, 0) 14.58333283662796%,
+            rgba(56, 56, 56, 0.84) 100%);
+    position: absolute;
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+    top: 0px;
+    overflow: hidden;
+}
+
+.button-button-btn-primary-color-btn-circle-btn-lg {
+    background: var(--secondary-color-1, #00a0c1);
+    border-radius: 73.6px;
+    padding: 34.8px 36.8px 34.8px 36.8px;
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    left: calc(50% - 48.5px);
+    top: calc(50% - 49px);
+    overflow: hidden;
+}
+
+.icn-play-icn-sm {
+    flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+}
+
+.col-md-42 {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.div {
+    padding: 0px 0px 20px 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.most-trusted-in-our-field {
+    color: var(--text-color, #252b42);
+    text-align: left;
+    font: var(--h-2, 700 40px/57px "Montserrat", sans-serif);
+    position: relative;
+}
+
+.most-calendars-are-designed-for-teams-slate-is-designed-for-freelancers-who-want-a-simple-way-to-plan-their-schedule {
+    color: var(--second-text-color, #737373);
+    text-align: left;
+    font: var(--paragraph, 500 14px/20px "Montserrat", sans-serif);
+    position: relative;
+}
+
+.card-item8 {
+    border-radius: 9px;
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 333px;
+    position: relative;
+    overflow: hidden;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.icn-settings-icn-md {
+    flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+}
+
+.div2 {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.h-6 {
+    color: var(--second-text-color, #737373);
+    text-align: left;
+    font: var(--h-6, 600 14px/24px "Montserrat", sans-serif);
+    position: relative;
+}
+
+.icn-settings-icn-md2 {
+    flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+}
+
+.clients-2 {
+    background: #fafafa;
+    padding: 120px 0px 120px 0px;
+    align-self: stretch;
+    flex-shrink: 0;
+    height: 404px;
+    position: relative;
+    overflow: hidden;
+}
+
+.container6 {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 1050px;
+    position: absolute;
+    left: calc(50% - 525px);
+    top: 0px;
+    overflow: hidden;
+}
+
+.row6 {
+    padding: 50px 0px 50px 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.col-md-37 {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 153px;
+    position: relative;
+    overflow: hidden;
+}
+
+.fa-brands-hooli {
+    flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+}
+
+.col-md-38 {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 146px;
+    position: relative;
+    overflow: hidden;
+}
+
+.fa-brands-lyft {
+    flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+}
+
+.col-md-39 {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 152px;
+    position: relative;
+    overflow: hidden;
+}
+
+.fa-brands-pied-piper-hat {
+    flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+}
+
+.col-md-310 {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 151px;
+    position: relative;
+    overflow: hidden;
+}
+
+.fa-brands-stripe {
+    flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+}
+
+.fa-brands-aws {
+    flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+}
+
+.fa-brands-reddit-alien {
+    flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+}
+
+.container7 {
+    padding: 20px 0px 20px 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: center;
+    justify-content: flex-start;
+    width: 1050px;
+    position: absolute;
+    left: calc(50% - 525px);
+    top: 175px;
+    overflow: hidden;
+}
+
+.row7 {
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.card-item9 {
+    background: var(--secondary-color-2, #16697a);
+    border-radius: 2px;
+    padding: 30px 50px 30px 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 1050px;
+    position: relative;
+    overflow: hidden;
+}
+
+.flex-row2 {
+    padding: 0px 16px 0px 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 240px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 958px;
+    position: relative;
+    overflow: hidden;
+}
+
+.input-group {
+    flex-shrink: 0;
+    height: 58px;
+    position: relative;
+    overflow: hidden;
+}

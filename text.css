@@ -1,0 +1,174 @@
+.cta {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.button-btn-primary-color-btn-round {
+    background: var(--primary-color, #ffa62b);
+    border-radius: 37px;
+    padding: 10px 36px 10px 36px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-text {
+    color: var(--light-text-color, #ffffff);
+    text-align: center;
+    font: var(--btn-text, 700 14px/28px "Montserrat", sans-serif);
+    position: relative;
+}
+
+.button-btn-primary-color-btn-outline-btn-round {
+    border-radius: 37px;
+    border-style: solid;
+    border-color: var(--secondary-color-1, #00a0c1);
+    border-width: 1px;
+    padding: 10px 36px 10px 36px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-text2 {
+    color: var(--secondary-color-1, #00a0c1);
+    text-align: center;
+    font: var(--btn-text, 700 14px/28px "Montserrat", sans-serif);
+    position: relative;
+}
+
+.col-md-62 {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 510px;
+    height: 280px;
+    position: relative;
+    overflow: hidden;
+}
+
+.row2 {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.col-md-4 {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 330px;
+    position: relative;
+}
+
+.card-item {
+    background: #ffffff;
+    padding: 35px 40px 35px 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 328px;
+    position: relative;
+    box-shadow: var(--shadow-box-shadow, 0px 13px 19px 0px rgba(0, 0, 0, 0.07));
+    overflow: hidden;
+}
+
+.icn-settings-icn-lg {
+    flex-shrink: 0;
+    width: 48px;
+    height: 48px;
+    position: relative;
+    overflow: hidden;
+}
+
+.carbon-tool-box {
+    position: absolute;
+    left: 0px;
+    top: 4px;
+    overflow: visible;
+}
+
+.h-3 {
+    color: var(--text-color, #252b42);
+    text-align: left;
+    font: var(--h-3, 700 24px/32px "Montserrat", sans-serif);
+    position: relative;
+}
+
+.paragraph {
+    color: var(--second-text-color, #737373);
+    text-align: left;
+    font: var(--paragraph, 500 14px/20px "Montserrat", sans-serif);
+    position: relative;
+}
+
+.ant-design-shop-twotone {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.card-item2 {
+    background: var(--secondary-color-1, #00a0c1);
+    padding: 35px 40px 35px 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 328px;
+    position: relative;
+    box-shadow: var(--shadow-box-shadow, 0px 13px 19px 0px rgba(0, 0, 0, 0.07));
+    overflow: hidden;
+}
+
+.carbon-notebook {
+    position: absolute;
+    left: 0px;
+    top: 5px;
+    overflow: visible;
+}
+
+.h-32 {
+    color: var(--light-text-color, #ffffff);
+    text-align: left;
+    font: var(--h-3, 700 24px/32px "Montserrat", sans-serif);
+    position: relative;
+}
+
+.paragraph2 {
+    color: var(--light-text-color, #ffffff);
+    text-align: left;
+    font: var(--paragraph, 500 14px/20px "Montserrat", sans-serif);
+    position: relative;
+}

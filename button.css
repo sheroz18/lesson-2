@@ -1,0 +1,488 @@
+.form-control-input-style-1 {
+    background: #f9f9f9;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #e6e6e6;
+    border-width: 1px;
+    padding: 19px 25px 19px 25px;
+    position: absolute;
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+    top: 0px;
+    overflow: hidden;
+}
+
+.your-email {
+    color: var(--second-text-color, #737373);
+    text-align: left;
+    font: 400 14px/28px "Montserrat", sans-serif;
+    position: absolute;
+    left: 20px;
+    top: calc(50% - 14px);
+}
+
+.input-group-append {
+    width: 117px;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    top: 0px;
+    overflow: hidden;
+}
+
+.btn {
+    background: var(--primary-color, #ffa62b);
+    border-radius: 0px 5px 5px 0px;
+    border-style: solid;
+    border-color: #e6e6e6;
+    border-width: 1px;
+    padding: 15px 20px 15px 20px;
+    position: absolute;
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+    top: 0px;
+    overflow: hidden;
+}
+
+.input-group-text {
+    color: var(--light-text-color, #ffffff);
+    text-align: center;
+    font: 400 14px/28px "Montserrat", sans-serif;
+    position: absolute;
+    left: calc(50% - 36px);
+    top: calc(50% - 14px);
+}
+
+.contact-4 {
+    background: #f3f3f3;
+    padding: 0px 195px 0px 195px;
+    align-self: stretch;
+    flex-shrink: 0;
+    height: 808px;
+    position: relative;
+    overflow: hidden;
+}
+
+.container8 {
+    padding: 80px 0px 80px 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+    align-items: center;
+    justify-content: flex-start;
+    width: 1050px;
+    position: absolute;
+    left: calc(50% - 525px);
+    top: 0px;
+    overflow: hidden;
+}
+
+.col-md-43 {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 327px;
+    position: relative;
+}
+
+.card-item10 {
+    background: #ffffff;
+    padding: 50px 40px 50px 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 328px;
+    position: relative;
+    overflow: hidden;
+}
+
+.icn-settings-icn-xl {
+    flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+}
+
+.div3 {
+    flex-shrink: 0;
+    width: 221px;
+    height: 48px;
+    position: static;
+}
+
+.h-62 {
+    color: var(--text-color, #252b42);
+    text-align: center;
+    font: var(--h-6, 600 14px/24px "Montserrat", sans-serif);
+    position: absolute;
+    left: 53.5px;
+    top: 137px;
+}
+
+.h-63 {
+    color: var(--text-color, #252b42);
+    text-align: center;
+    font: var(--h-6, 600 14px/24px "Montserrat", sans-serif);
+    position: absolute;
+    left: 73.5px;
+    top: 161px;
+}
+
+.h-53 {
+    color: var(--text-color, #252b42);
+    text-align: center;
+    font: var(--h-5, 700 16px/24px "Montserrat", sans-serif);
+    position: relative;
+}
+
+.button-primary-color-btn-outline-btn-sm {
+    border-radius: 5px;
+    border-style: solid;
+    border-color: var(--primary-color, #ffa62b);
+    border-width: 1px;
+    padding: 10px 20px 10px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.h-64 {
+    color: var(--primary-color, #ffa62b);
+    text-align: center;
+    font: var(--h-6, 600 14px/24px "Montserrat", sans-serif);
+    position: relative;
+}
+
+.col-md-44 {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 329px;
+    position: relative;
+}
+
+.card-item11 {
+    background: var(--dark-background-color, #252b42);
+    padding: 50px 40px 50px 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 328px;
+    position: relative;
+    overflow: hidden;
+}
+
+.icn-settings-icn-xl2 {
+    flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+}
+
+.h-65 {
+    color: var(--light-text-color, #ffffff);
+    text-align: center;
+    font: var(--h-6, 600 14px/24px "Montserrat", sans-serif);
+    position: absolute;
+    left: 53.5px;
+    top: 137px;
+}
+
+.h-66 {
+    color: var(--light-text-color, #ffffff);
+    text-align: center;
+    font: var(--h-6, 600 14px/24px "Montserrat", sans-serif);
+    position: absolute;
+    left: 73.5px;
+    top: 161px;
+}
+
+.h-54 {
+    color: var(--light-text-color, #ffffff);
+    text-align: center;
+    font: var(--h-5, 700 16px/24px "Montserrat", sans-serif);
+    position: relative;
+}
+
+.button-primary-color-btn-outline-btn-sm2 {
+    border-radius: 5px;
+    border-style: solid;
+    border-color: var(--light-text-color, #ffffff);
+    border-width: 1px;
+    padding: 10px 20px 10px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.h-67 {
+    color: var(--light-text-color, #ffffff);
+    text-align: center;
+    font: var(--h-6, 600 14px/24px "Montserrat", sans-serif);
+    position: relative;
+}
+
+.icn-settings-icn-xl3 {
+    flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+}
+
+.footer-5 {
+    background: #fafafa;
+    padding: 120px 0px 120px 0px;
+    align-self: stretch;
+    flex-shrink: 0;
+    height: 751px;
+    position: relative;
+    overflow: hidden;
+}
+
+.div4 {
+    background: #fafafa;
+    padding: 120px 0px 120px 0px;
+    width: 1440px;
+    height: 155px;
+    position: absolute;
+    left: calc(50% - 720px);
+    top: calc(50% - 375.5px);
+    overflow: hidden;
+}
+
+.container9 {
+    padding: 46px 0px 0px 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: center;
+    justify-content: center;
+    width: 1050px;
+    height: 74px;
+    position: absolute;
+    left: calc(50% - 525px);
+    top: 63px;
+    overflow: hidden;
+}
+
+.row8 {
+    display: flex;
+    flex-direction: row;
+    gap: 438px;
+    align-items: center;
+    justify-content: flex-end;
+    flex-shrink: 0;
+    width: 454px;
+    height: 62px;
+    position: relative;
+    overflow: hidden;
+}
+
+.frame-3851 {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 1050px;
+    height: 260px;
+    position: absolute;
+    left: 448px;
+    top: 142px;
+}
+
+.frame-830 {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 195px;
+    top: 100px;
+}
+
+.text-field {
+    border-style: solid;
+    border-color: var(--gray-5, #e0e0e0);
+    border-width: 1px;
+    padding: 12px 20px 12px 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 1050px;
+    height: 50px;
+    position: relative;
+}
+
+.name {
+    text-align: left;
+    font: 400 14px/24px "Montserrat", sans-serif;
+    position: relative;
+}
+
+.name-span {
+    color: var(--gray-3, #828282);
+    font: 400 14px/24px "Montserrat", sans-serif;
+}
+
+.name-span2 {
+    color: var(--red, #eb5757);
+    font: 400 14px/24px "Montserrat", sans-serif;
+}
+
+.email {
+    color: var(--gray-3, #828282);
+    text-align: left;
+    font: 400 14px/24px "Montserrat", sans-serif;
+    position: relative;
+}
+
+.phone-number {
+    text-align: left;
+    font: 400 14px/24px "Montserrat", sans-serif;
+    position: relative;
+}
+
+.phone-number-span {
+    color: var(--gray-3, #828282);
+    font: 400 14px/24px "Montserrat", sans-serif;
+}
+
+.phone-number-span2 {
+    color: var(--red, #eb5757);
+    font: 400 14px/24px "Montserrat", sans-serif;
+}
+
+.text-field2 {
+    border-style: solid;
+    border-color: var(--gray-5, #e0e0e0);
+    border-width: 1px;
+    padding: 12px 20px 12px 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 1050px;
+    height: 156px;
+    position: relative;
+}
+
+.comment {
+    color: var(--gray-3, #828282);
+    text-align: left;
+    font: 400 14px/24px "Montserrat", sans-serif;
+    position: relative;
+    width: 73px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.dropdown {
+    border-style: solid;
+    border-color: var(--gray-5, #e0e0e0);
+    border-width: 1px;
+    padding: 12px 20px 12px 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    flex-shrink: 0;
+    width: 1050px;
+    height: 50px;
+    position: relative;
+}
+
+.how-did-you-find-us {
+    color: var(--black, #000000);
+    text-align: left;
+    font: 400 14px/24px "Montserrat", sans-serif;
+    position: relative;
+}
+
+.vector-2 {
+    flex-shrink: 0;
+    position: relative;
+    transform: translate(-12px, 0px);
+    overflow: visible;
+}
+
+.col-md-63 {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: center;
+    justify-content: flex-start;
+    width: 1050px;
+    height: 58px;
+    position: absolute;
+    left: calc(50% - 525px);
+    top: 653px;
+    overflow: hidden;
+}
+
+.button-btn-primary-color {
+    background: var(--primary-color, #ffa62b);
+    border-radius: 5px;
+    padding: 15px 40px 15px 40px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: flex-end;
+    position: absolute;
+    left: 639px;
+    top: 595px;
+    overflow: hidden;
+}
+
+.div5 {
+    background: var(--secondary-color-2, #16697a);
+    padding: 120px 0px 120px 0px;
+    align-self: stretch;
+    flex-shrink: 0;
+    height: 307px;
+    position: relative;
+    overflow: hidden;
+}
+
+.container10 {
+    padding: 50px 0px 50px 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 1050px;
+    position: absolute;
+    left: calc(50% - 525px);
+    top: 0px;
+    overflow: hidden;
+}
